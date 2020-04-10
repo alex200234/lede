@@ -680,7 +680,7 @@ endef
 TARGET_DEVICES += netis_wf2881
 
 define Device/phicomm_k2p
-  IMAGE_SIZE := 15744k
+  IMAGE_SIZE := 25744k
   DEVICE_VENDOR := Phicomm
   DEVICE_MODEL := K2P
   SUPPORTED_DEVICES += k2p
